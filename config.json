@@ -1,4 +1,6 @@
 {
     "app-name" : "Meu site",
-    "author" : "Jaqueline"
+    "author" : "Jaqueline",
+    "domain": "www.jaqueline.com.br",
+    "email" : "jakamanda@gmail.com"
 }
