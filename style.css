@@ -6,12 +6,12 @@
 }
 
 h1{
-    text-align: right;
+    text-align: left;
 }
 
 .container{
-    margin: 1rem;
-    padding: 2px;
+    margin: 0 auto;
+    padding: 1rem;
 }
 
 .logo{
