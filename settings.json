@@ -2,5 +2,7 @@
     "app-name" : "Meu site",
     "author" : "Jaqueline",
     "domain": "www.jaqueline.com.br",
-    "email" : "jakamanda@gmail.com"
+    "email" : "jakamanda@gmail.com",
+    "city": "Jales",
+    "state": "São Paulo"
 }
